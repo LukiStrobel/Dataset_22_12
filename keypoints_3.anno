@@ -1,0 +1,619 @@
+{
+    "definitions": {
+        "files_root_dir": "Bilder_3",
+        "marker_types": {
+            "Keypoint": {
+                "categories": [
+                    {
+                        "color": "#ff0000",
+                        "id": 0,
+                        "name": "Category 0"
+                    }
+                ],
+                "value_type": "point"
+            }
+        }
+    },
+    "files": [
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "85.8393 97.5268"
+                }
+            ],
+            "name": "dist_img_1.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "124.732 114.911"
+                }
+            ],
+            "name": "dist_img_10.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "140.348 126.696"
+                }
+            ],
+            "name": "dist_img_11.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "170.107 129.054"
+                }
+            ],
+            "name": "dist_img_12.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "131.804 127.58"
+                }
+            ],
+            "name": "dist_img_13.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "165.982 17.6786"
+                }
+            ],
+            "name": "dist_img_14.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "125.616 98.7054"
+                }
+            ],
+            "name": "dist_img_15.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "127.973 109.018"
+                }
+            ],
+            "name": "dist_img_16.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "183.366 60.4018"
+                }
+            ],
+            "name": "dist_img_17.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "155.67 49.5"
+                }
+            ],
+            "name": "dist_img_18.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "135.634 131.116"
+                }
+            ],
+            "name": "dist_img_19.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "130.92 104.598"
+                }
+            ],
+            "name": "dist_img_2.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "210.179 112.848"
+                }
+            ],
+            "name": "dist_img_20.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "179.83 156.455"
+                }
+            ],
+            "name": "dist_img_21.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "112.946 61.875"
+                }
+            ],
+            "name": "dist_img_22.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "190.732 121.393"
+                }
+            ],
+            "name": "dist_img_23.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "217.839 146.143"
+                }
+            ],
+            "name": "dist_img_24.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "52.5446 122.866"
+                }
+            ],
+            "name": "dist_img_25.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "138.286 101.063"
+                }
+            ],
+            "name": "dist_img_26.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "125.027 33"
+                }
+            ],
+            "name": "dist_img_27.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "194.268 137.009"
+                }
+            ],
+            "name": "dist_img_28.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "110.589 109.607"
+                }
+            ],
+            "name": "dist_img_29.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "118.545 75.4286"
+                }
+            ],
+            "name": "dist_img_3.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "55.1964 76.6071"
+                }
+            ],
+            "name": "dist_img_30.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "166.277 62.4643"
+                }
+            ],
+            "name": "dist_img_31.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "222.554 34.7679"
+                }
+            ],
+            "name": "dist_img_32.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "87.0179 65.7054"
+                }
+            ],
+            "name": "dist_img_33.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "115.009 131.705"
+                }
+            ],
+            "name": "dist_img_34.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "180.125 79.2589"
+                }
+            ],
+            "name": "dist_img_35.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "143.589 112.554"
+                }
+            ],
+            "name": "dist_img_36.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "148.598 50.0893"
+                }
+            ],
+            "name": "dist_img_37.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "132.393 128.17"
+                }
+            ],
+            "name": "dist_img_38.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "240.527 67.4732"
+                }
+            ],
+            "name": "dist_img_39.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "162.152 85.1518"
+                }
+            ],
+            "name": "dist_img_4.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "143 53.9196"
+                }
+            ],
+            "name": "dist_img_40.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "203.696 73.9554"
+                }
+            ],
+            "name": "dist_img_41.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "136.518 40.3661"
+                }
+            ],
+            "name": "dist_img_42.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "231.982 160.875"
+                }
+            ],
+            "name": "dist_img_43.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "71.1071 132"
+                }
+            ],
+            "name": "dist_img_44.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "70.5179 31.2321"
+                }
+            ],
+            "name": "dist_img_45.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "224.616 11.1964"
+                }
+            ],
+            "name": "dist_img_46.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "111.473 82.7946"
+                }
+            ],
+            "name": "dist_img_47.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "240.232 97.2321"
+                }
+            ],
+            "name": "dist_img_48.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "108.527 21.5089"
+                }
+            ],
+            "name": "dist_img_49.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "243.768 102.536"
+                }
+            ],
+            "name": "dist_img_5.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "145.946 36.5357"
+                }
+            ],
+            "name": "dist_img_50.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "62.8571 126.402"
+                }
+            ],
+            "name": "dist_img_51.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "221.67 59.5179"
+                }
+            ],
+            "name": "dist_img_52.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "63.1518 58.9286"
+                }
+            ],
+            "name": "dist_img_53.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "235.223 143.786"
+                }
+            ],
+            "name": "dist_img_54.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "78.1786 69.2411"
+                }
+            ],
+            "name": "dist_img_55.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "245.83 149.973"
+                }
+            ],
+            "name": "dist_img_56.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "111.473 53.9196"
+                }
+            ],
+            "name": "dist_img_57.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "218.429 152.33"
+                }
+            ],
+            "name": "dist_img_58.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "143 66.2946"
+                }
+            ],
+            "name": "dist_img_59.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "198.687 137.009"
+                }
+            ],
+            "name": "dist_img_6.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "145.063 128.17"
+                }
+            ],
+            "name": "dist_img_60.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "113.83 151.741"
+                }
+            ],
+            "name": "dist_img_7.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "107.054 121.393"
+                }
+            ],
+            "name": "dist_img_8.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Keypoint",
+                    "value": "166.571 71.8929"
+                }
+            ],
+            "name": "dist_img_9.png"
+        }
+    ]
+}
