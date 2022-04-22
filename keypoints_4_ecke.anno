@@ -1,0 +1,179 @@
+{
+    "definitions": {
+        "files_root_dir": "Bilder_4",
+        "marker_types": {
+            "Punkt_2": {
+                "categories": [
+                    {
+                        "color": "#ff0000",
+                        "id": 0,
+                        "name": "Category 0"
+                    }
+                ],
+                "value_type": "point"
+            }
+        }
+    },
+    "files": [
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "332.092 125.855"
+                }
+            ],
+            "name": "dist_img_1.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "115.013 164.166"
+                }
+            ],
+            "name": "dist_img_10.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "48.2007 145.131"
+                }
+            ],
+            "name": "dist_img_11.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "92.177 190.897"
+                }
+            ],
+            "name": "dist_img_12.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "254.982 106.873"
+                }
+            ],
+            "name": "dist_img_13.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "256.017 118.116"
+                }
+            ],
+            "name": "dist_img_14.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "225.984 234.182"
+                }
+            ],
+            "name": "dist_img_15.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "262.101 75.8875"
+                }
+            ],
+            "name": "dist_img_19.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "351.069 164.838"
+                }
+            ],
+            "name": "dist_img_2.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "173.099 89.0818"
+                }
+            ],
+            "name": "dist_img_21.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "249.986 206.963"
+                }
+            ],
+            "name": "dist_img_22.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "221.68 114.82"
+                }
+            ],
+            "name": "dist_img_23.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "227.127 122.86"
+                }
+            ],
+            "name": "dist_img_24.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "145.037 68.7519"
+                }
+            ],
+            "name": "dist_img_27.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "136.102 113.844"
+                }
+            ],
+            "name": "dist_img_8.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "94.9922 214.186"
+                }
+            ],
+            "name": "dist_img_9.png"
+        }
+    ]
+}

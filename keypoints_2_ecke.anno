@@ -1,0 +1,1019 @@
+{
+    "definitions": {
+        "files_root_dir": "Bilder_2",
+        "marker_types": {
+            "Punkt_2": {
+                "categories": [
+                    {
+                        "color": "#ff0000",
+                        "id": 0,
+                        "name": "Category 0"
+                    }
+                ],
+                "value_type": "point"
+            }
+        }
+    },
+    "files": [
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "74.0832 143.028"
+                }
+            ],
+            "name": "dist_img_1.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "120.955 130.963"
+                }
+            ],
+            "name": "dist_img_10.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "228.061 30.2134"
+                }
+            ],
+            "name": "dist_img_100.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "113.978 75.9085"
+                }
+            ],
+            "name": "dist_img_11.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "36.932 114.994"
+                }
+            ],
+            "name": "dist_img_12.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "149.09 91.1703"
+                }
+            ],
+            "name": "dist_img_13.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "205.921 167.11"
+                }
+            ],
+            "name": "dist_img_14.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "227.161 170.292"
+                }
+            ],
+            "name": "dist_img_15.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "207.041 62.2736"
+                }
+            ],
+            "name": "dist_img_16.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "102.953 115.027"
+                }
+            ],
+            "name": "dist_img_17.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "114.031 150.08"
+                }
+            ],
+            "name": "dist_img_18.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "249.944 191.181"
+                }
+            ],
+            "name": "dist_img_19.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "127.965 147.073"
+                }
+            ],
+            "name": "dist_img_2.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "261.051 85.2616"
+                }
+            ],
+            "name": "dist_img_20.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "217.986 43.9439"
+                }
+            ],
+            "name": "dist_img_21.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "140.087 47.9209"
+                }
+            ],
+            "name": "dist_img_22.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "255.783 100.031"
+                }
+            ],
+            "name": "dist_img_23.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "222.858 70.0146"
+                }
+            ],
+            "name": "dist_img_24.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "186.056 39.1627"
+                }
+            ],
+            "name": "dist_img_25.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "105.812 143.805"
+                }
+            ],
+            "name": "dist_img_26.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "171.038 191.248"
+                }
+            ],
+            "name": "dist_img_27.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "250.927 83.1645"
+                }
+            ],
+            "name": "dist_img_28.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "162.76 50.873"
+                }
+            ],
+            "name": "dist_img_29.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "134.984 139.036"
+                }
+            ],
+            "name": "dist_img_3.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "203.007 51.9225"
+                }
+            ],
+            "name": "dist_img_30.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "233.088 98.9215"
+                }
+            ],
+            "name": "dist_img_31.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "152.035 34.9193"
+                }
+            ],
+            "name": "dist_img_32.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "133.06 132.022"
+                }
+            ],
+            "name": "dist_img_33.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "114.969 139.151"
+                }
+            ],
+            "name": "dist_img_34.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "137.028 145.064"
+                }
+            ],
+            "name": "dist_img_35.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "112.942 83.1147"
+                }
+            ],
+            "name": "dist_img_36.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "197.742 158.821"
+                }
+            ],
+            "name": "dist_img_37.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "233.06 64.9886"
+                }
+            ],
+            "name": "dist_img_38.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "146.915 131.045"
+                }
+            ],
+            "name": "dist_img_39.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "202.908 123.085"
+                }
+            ],
+            "name": "dist_img_4.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "242.754 158.914"
+                }
+            ],
+            "name": "dist_img_40.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "236.111 95.1172"
+                }
+            ],
+            "name": "dist_img_41.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "214.214 48.0982"
+                }
+            ],
+            "name": "dist_img_42.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "126.962 102.001"
+                }
+            ],
+            "name": "dist_img_43.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "160.013 169.102"
+                }
+            ],
+            "name": "dist_img_44.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "206.031 140.914"
+                }
+            ],
+            "name": "dist_img_45.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "252.909 103.051"
+                }
+            ],
+            "name": "dist_img_46.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "145.067 160.087"
+                }
+            ],
+            "name": "dist_img_47.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "200.013 136.177"
+                }
+            ],
+            "name": "dist_img_48.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "223.071 74.1137"
+                }
+            ],
+            "name": "dist_img_49.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "198.19 43.9361"
+                }
+            ],
+            "name": "dist_img_5.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "167.893 164.982"
+                }
+            ],
+            "name": "dist_img_50.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "238.097 160.204"
+                }
+            ],
+            "name": "dist_img_51.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "216.057 156.039"
+                }
+            ],
+            "name": "dist_img_52.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "205.947 173.918"
+                }
+            ],
+            "name": "dist_img_53.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "254.025 79.9378"
+                }
+            ],
+            "name": "dist_img_54.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "129.961 39.817"
+                }
+            ],
+            "name": "dist_img_55.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "259.004 45.9996"
+                }
+            ],
+            "name": "dist_img_56.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "176.897 46.8615"
+                }
+            ],
+            "name": "dist_img_57.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "87.0493 106.199"
+                }
+            ],
+            "name": "dist_img_58.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "159.044 33.1473"
+                }
+            ],
+            "name": "dist_img_59.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "122.067 32.0655"
+                }
+            ],
+            "name": "dist_img_6.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "137.922 22.2559"
+                }
+            ],
+            "name": "dist_img_60.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "113.028 132.904"
+                }
+            ],
+            "name": "dist_img_61.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "245.017 111.131"
+                }
+            ],
+            "name": "dist_img_62.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "124.094 187.844"
+                }
+            ],
+            "name": "dist_img_63.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "132.946 109.079"
+                }
+            ],
+            "name": "dist_img_64.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "154.149 170.878"
+                }
+            ],
+            "name": "dist_img_65.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "260.778 94.0262"
+                }
+            ],
+            "name": "dist_img_66.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "295.141 104.131"
+                }
+            ],
+            "name": "dist_img_67.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "210.162 74.0045"
+                }
+            ],
+            "name": "dist_img_68.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "224.911 60.9088"
+                }
+            ],
+            "name": "dist_img_69.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "104.851 76.8763"
+                }
+            ],
+            "name": "dist_img_7.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "180.922 37.218"
+                }
+            ],
+            "name": "dist_img_70.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "96.0132 107.969"
+                }
+            ],
+            "name": "dist_img_71.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "273.801 176.188"
+                }
+            ],
+            "name": "dist_img_72.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "208.952 75.9344"
+                }
+            ],
+            "name": "dist_img_73.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "212.918 44.1176"
+                }
+            ],
+            "name": "dist_img_74.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "58.956 53.0424"
+                }
+            ],
+            "name": "dist_img_75.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "121.071 111.001"
+                }
+            ],
+            "name": "dist_img_76.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "130.877 60.0036"
+                }
+            ],
+            "name": "dist_img_77.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "177.938 55.0902"
+                }
+            ],
+            "name": "dist_img_78.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "144.824 88.9302"
+                }
+            ],
+            "name": "dist_img_79.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "135 131.98"
+                }
+            ],
+            "name": "dist_img_8.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "188.769 41.9197"
+                }
+            ],
+            "name": "dist_img_80.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "277.001 91.0832"
+                }
+            ],
+            "name": "dist_img_81.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "169.985 16.0114"
+                }
+            ],
+            "name": "dist_img_82.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "148.114 140.894"
+                }
+            ],
+            "name": "dist_img_83.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "215.014 33.1243"
+                }
+            ],
+            "name": "dist_img_84.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "191.142 109.877"
+                }
+            ],
+            "name": "dist_img_85.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "142.842 167.109"
+                }
+            ],
+            "name": "dist_img_86.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "223.946 40.0609"
+                }
+            ],
+            "name": "dist_img_87.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "194.008 152.987"
+                }
+            ],
+            "name": "dist_img_88.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "107.243 160.296"
+                }
+            ],
+            "name": "dist_img_89.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "130.103 77.9414"
+                }
+            ],
+            "name": "dist_img_9.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "225.961 128.855"
+                }
+            ],
+            "name": "dist_img_90.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "145.062 157.147"
+                }
+            ],
+            "name": "dist_img_91.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "242.097 109.992"
+                }
+            ],
+            "name": "dist_img_92.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "211.869 37.9706"
+                }
+            ],
+            "name": "dist_img_93.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "255.939 77.9881"
+                }
+            ],
+            "name": "dist_img_94.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "177.187 137.042"
+                }
+            ],
+            "name": "dist_img_95.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "136.009 122.907"
+                }
+            ],
+            "name": "dist_img_96.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "277.026 58.9048"
+                }
+            ],
+            "name": "dist_img_97.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "239.949 56.9521"
+                }
+            ],
+            "name": "dist_img_98.png"
+        },
+        {
+            "markers": [
+                {
+                    "category": 0,
+                    "type": "Punkt_2",
+                    "value": "206.973 136.986"
+                }
+            ],
+            "name": "dist_img_99.png"
+        }
+    ]
+}
